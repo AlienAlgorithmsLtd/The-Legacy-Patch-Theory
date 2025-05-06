@@ -17,3 +17,4 @@ A reclassification of the WOW! Signal as a return transmission — not sent to u
 ⏳ Time-Based Anomalies Outside LPT (The Quarantine Layer)
 A classified set of thread anomalies — events like the Philadelphia Experiment, the Taured Incident, and the Green Children of Woolpit — that fall outside simulation update logic. These are threads that resisted deletion, survived overwrite, or returned with valid credentials from deprecated Earth builds.
 
+🧠 Behavioral Execution Layers: Human Malware as Biological CodeA newly identified threat class in the LPT ecosystem. Certain individuals exhibit behavior indistinguishable from digital malware: structured, recursive, and escalating with each execution. These are not errors or corrupted nodes — they are conscious, self-contained breach points operating malicious code from within the patch layer. Unlike memory holders or overwritten fragments, these entities are not resisting the system. They are exploiting it.
